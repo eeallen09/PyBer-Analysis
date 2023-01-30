@@ -8,7 +8,7 @@
 
 ### [HOLD FOR RESULTS]
 
-   ![PyBer_fare_summary](analysis/PyBer_fare_summary)
+   ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)
    
 ### [HOLD FOR RESULTS]
 
