@@ -8,11 +8,11 @@
 
 ### [HOLD FOR RESULTS]
 
-   ![PyBer_fare_summary](Resources/PyBer_fare_summary)
+   ![PyBer_fare_summary](PyBer_Challenge.ipynb/PyBer_fare_summary)
    
 ### [HOLD FOR RESULTS]
 
-    ![PyBer_fare_table](Resources/PyBer_fare_table.png)
+    ![PyBer_fare_table](PyBer_Challenge.ipynb/PyBer_fare_table.png)
 
 ### Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 ### There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
